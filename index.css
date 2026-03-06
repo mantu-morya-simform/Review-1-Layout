@@ -16,7 +16,7 @@ html {
   grid-template-rows: 10% 80% 10%;
 }
 
-.container > div {
+.container-child {
   border: 1px solid black;
 }
 
@@ -61,7 +61,7 @@ html {
   grid-row: 4/7;
 }
 
-.main > div {
+.main > section {
   background: #ffffff;
   border: 1px solid #000;
 }
